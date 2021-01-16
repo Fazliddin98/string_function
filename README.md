@@ -1,2 +1,1 @@
-# string_function
-string_function
+Team akaemiyasida o'rganilgan vazifalar
